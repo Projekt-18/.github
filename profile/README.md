@@ -1,2 +1,2 @@
-## Projekt 18 - KES
-Tento školní projekt je zaměřen na vývoj konzole KES (Kyberna Entertainment System)
+## Projekt 18 - KÁVES (KVES)
+Tento školní projekt je zaměřen na vývoj konzole KÁVES (Kyberna Vibecoding Entertainment System)
